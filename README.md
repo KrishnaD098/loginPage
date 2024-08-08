@@ -12,5 +12,5 @@ This project leverages a variety of modern technologies. React.js is used as the
 ## Usage
 Users can interact with the login form by entering their credentials and submitting them through the "Login" button. The form includes basic client-side validation to ensure correct user input. The Express server and MongoDB database, connected via Mongoose, handle the user data. Axios facilitates the communication between the frontend and backend. The project is styled using Tailwind CSS, which allows easy customization by adjusting the utility classes directly in the JSX files.
 
-### Contributing
+## Contributing
 If you’d like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome, whether they are bug fixes, new features, or improvements to the documentation.
